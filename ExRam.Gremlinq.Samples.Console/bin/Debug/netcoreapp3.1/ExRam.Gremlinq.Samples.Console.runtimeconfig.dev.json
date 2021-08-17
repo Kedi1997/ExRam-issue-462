@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kedi/.dotnet/store/|arch|/|tfm|",
+      "/Users/kedi/.nuget/packages"
+    ]
+  }
+}
